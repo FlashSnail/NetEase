@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetEaseOnlineTest3", "NetEaseOnlineTest3\NetEaseOnlineTest3.vcxproj", "{A5B41D1F-BB77-4E52-9895-7E9C1AAF395A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BubbleSort", "..\..\Test\BubbleSort\BubbleSort\BubbleSort.vcxproj", "{EEDD8C9C-B640-4E61-92C7-988935EDF748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B41D1F-BB77-4E52-9895-7E9C1AAF395A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5B41D1F-BB77-4E52-9895-7E9C1AAF395A}.Debug|Win32.Build.0 = Debug|Win32
+		{A5B41D1F-BB77-4E52-9895-7E9C1AAF395A}.Release|Win32.ActiveCfg = Release|Win32
+		{A5B41D1F-BB77-4E52-9895-7E9C1AAF395A}.Release|Win32.Build.0 = Release|Win32
+		{EEDD8C9C-B640-4E61-92C7-988935EDF748}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEDD8C9C-B640-4E61-92C7-988935EDF748}.Debug|Win32.Build.0 = Debug|Win32
+		{EEDD8C9C-B640-4E61-92C7-988935EDF748}.Release|Win32.ActiveCfg = Release|Win32
+		{EEDD8C9C-B640-4E61-92C7-988935EDF748}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
